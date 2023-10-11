@@ -1,0 +1,8 @@
+e-commerce database (shop)
+====================================
+admins
+users
+products
+order
+delivery
+=====================================
